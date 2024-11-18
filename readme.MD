@@ -8,3 +8,6 @@ Project #1 of CSC 335 (Machine Learning) at Adelphi University 🏫. *This code 
 
 - Data Cleaning (Complete! ✅)
 - Feature Extraction (Complete! ✅)
+- Logistic Regression (Complete! ✅)
+- Decision Trees (Complete! ✅)
+- K-NN (Complete! ✅)
